@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-11-10 21:08",
+    "messages": [
+      {
+        "role": "user",
+        "content": "bonjour"
+      },
+      {
+        "role": "assistant",
+        "content": "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
+      }
+    ]
+  }
+]
